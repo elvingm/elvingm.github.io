@@ -1,4 +1,4 @@
-elvingm-elvingm.github.io
+elvingm.github.io
 =========================
 
 Testing out GitHub pages.
